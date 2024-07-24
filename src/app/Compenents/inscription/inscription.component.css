@@ -1,0 +1,104 @@
+.btn-logo1 {
+    display: flex; 
+    gap: 150px;
+    align-items: center; 
+    padding: 10px 20px; 
+    color: white;    
+    border: none; 
+    border-radius: 8px;            
+     cursor: pointer; 
+    width: 100%;
+    padding: 20px;
+}
+
+.btn-logo1 img {
+    height: 28px;  
+    margin-left: 10px;
+    
+}
+.btn-logo2 {
+    display: flex; 
+    gap: 150px;
+    align-items: center; 
+    padding: 10px 20px; 
+    color: white;    
+    border: none; 
+    border-radius: 8px;   
+    background-color: black;         
+     cursor: pointer; 
+     width: 100%;
+   padding: 20px;
+}
+
+.btn-logo2 img {
+    height: 28px;  
+    margin-left: 10px;
+    
+}
+.btn-logo3 {
+    display: flex; 
+    gap: 80px;
+    align-items: center; 
+    padding: 10px 20px; 
+    color: white;    
+    border: none; 
+    text-align: center;
+    justify-content:center ;
+    border-radius: 8px;   
+     cursor: pointer; 
+    width: 100%;
+    padding: 20px;
+}
+
+.btn-logo3 img {
+    height: 38px;  
+    margin-left: 10px;
+    
+}
+.part1{
+    border-radius: 10px;
+}
+
+body{
+    justify-content: center;
+    margin-left: 30px;
+}
+.gg{
+    margin-top: 100px;
+}
+button{
+    font-size: 15px;
+    font-weight: bold;
+}
+.text1{
+    color: blue;
+    font-weight: bold;
+}
+.trait{
+    width: 90px;
+    background-color: rgb(177, 175, 175);
+    height: 2px;
+}
+.trait1{
+    margin-top: 50px;
+    justify-content: center;
+    margin-bottom: 40px;
+    color: rgb(177, 175, 175);
+    align-items: center;
+    gap: 10px;
+}
+.title-carousel{
+    font-size: 29px;
+}
+.paragraph-carousel{
+    font-size: 20px;
+}
+input{
+    height: 50px;
+    width: 100%;
+}
+.retour{
+    height: 55px;
+    border-radius: 100%;
+    width: 160px;
+}

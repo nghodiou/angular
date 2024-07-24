@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[120],{UyyL:function(t,s,n){"use strict";n.r(s);var o=n("H8ri");s.default={extends:o.c,props:["options","data"],mounted(){this.renderChart(this.data,this.options)}}}}]);
